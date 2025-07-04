@@ -1,0 +1,15 @@
+.ttt{
+    border: 3px solid #000;
+}
+
+.overlayplay{
+    display: none;
+}
+
+.btn_reset{
+    transition-duration: 0.4s;
+}
+.btn_reset:hover{
+    /* border-style:outset; */
+    cursor: pointer;
+}
